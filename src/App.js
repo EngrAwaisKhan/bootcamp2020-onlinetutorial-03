@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
+      <h2>Hello World</h2>
       <h2>Student Info</h2>
       <Student StudentName="Ali" RollNo="43" /><hr/>
       <Student StudentName="Awais" RollNo="34" /><hr/>
